@@ -1,0 +1,10 @@
+# environment
+.idea/
+environment.txt
+
+# jupyter
+.ipynb_checkpoints/
+
+# plot
+iframe_figures/
+
